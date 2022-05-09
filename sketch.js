@@ -24,3 +24,4 @@ function draw() {
     boid.update();
     boid.show();
   }
+}
